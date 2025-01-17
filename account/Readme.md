@@ -3,4 +3,4 @@
 - Go to the http://localhost:8080/swagger-ui/index.html#/accounts-controller/fetchAccountDetails
 - Add Documentation on the AccountApplication Class
 - Enhance API Documentation with @Tag @Operation @ApiResponses In AccountsController Class
-- 
+- Enhance API Documentation in Schema with @Schema and in DTO classes 
