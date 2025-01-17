@@ -1,0 +1,4 @@
+- Open API Spring boot intigration with Swagger
+- Add Dependencies of OpneAPI
+- Go to the http://localhost:8080/swagger-ui/index.html#/accounts-controller/fetchAccountDetails
+- Add Documentation on the AccountApplication Class
