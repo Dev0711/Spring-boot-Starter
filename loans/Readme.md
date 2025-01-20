@@ -1,0 +1,3 @@
+- add the configuration in pom.xml(image, name)
+- mvn spring-boot:build-image
+- docker run -p 8090:8090 devoza/loans:s4
