@@ -1,0 +1,5 @@
+- add configuration like plugin in pom.xml
+- run maven command mvn compile jib:dockerBuild
+- run docker docker run -p 9000:9000 devoza/cards:s4
+  - google jib offer a alternative aproach to dockerFiles, priotizing consistency,security, performance. WIth Jib, developpers can automaitcally generate production ready OCI images from their appication source code
+  - without need to write a Dockerrfile and even local DOcker setup
